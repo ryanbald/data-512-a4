@@ -25,6 +25,8 @@ A6: `NYC Food Inspection Data.ipynb`
 
 ### DOHMH New York City Restaurant Inspection Results
 
+I found that the dataset was a bit too large to store in this GitHub repository, so the Jupyter notebook downloads the current version of the dataset every time it's run.
+
 Source: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
 License: at-large (though the [FAQ](https://opendata.cityofnewyork.us/faq/) on NYC Open Data explicitly states "[t]here are no restrictions on the use of Open Data")
