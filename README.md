@@ -27,7 +27,7 @@ A6: `NYC Food Inspection Data.ipynb`
 
 Source: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
-License: at-large (though the [FAQ](https://opendata.cityofnewyork.us/faq/) on NYC OpenData explicitly states "[t]here are no restrictions on the use of OpenData")
+License: at-large (though the [FAQ](https://opendata.cityofnewyork.us/faq/) on NYC Open Data explicitly states "[t]here are no restrictions on the use of Open Data")
 
 ## Licensing
 
